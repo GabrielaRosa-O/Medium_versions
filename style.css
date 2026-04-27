@@ -1,0 +1,4 @@
+body { font-family: 'Inter', sans-serif; }
+        .view-content { display: none; }
+        .view-active { display: block; }
+        .login-card:hover { transform: translateY(-5px); border-color: #2563eb; }
